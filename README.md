@@ -1,6 +1,6 @@
 # smarter-sort
 
-Small Java Gradle subproject providing `Sorter.sort(width,height,length,mass)` and unit tests.
+Small Java Gradle project providing `Sorter.sort(width,height,length,mass)` and unit tests.
 
 Run tests:
 
